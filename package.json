@@ -1,0 +1,22 @@
+{
+  "name": "espressohousedk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch --update --style=compressed css:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilBonlokke/espressohousedk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilBonlokke/espressohousedk/issues"
+  },
+  "homepage": "https://github.com/EmilBonlokke/espressohousedk#readme",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  }
+}
